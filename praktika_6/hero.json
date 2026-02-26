@@ -1,0 +1,25 @@
+{
+  "level": 1,
+  "raceName": "Human",
+  "className": "Fighter",
+  "name": "Ragnar",
+  "stats": {
+    "STR": 12,
+    "WIS": 16,
+    "CON": 16,
+    "DEX": 13,
+    "CHA": 8,
+    "INT": 10
+  },
+  "skills": [
+    "Athletics",
+    "Survival",
+    "Perception"
+  ],
+  "equipment": [
+    "Sword",
+    "Shield"
+  ],
+  "hitPoints": 13,
+  "armorClass": 11
+}
